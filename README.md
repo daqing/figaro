@@ -42,7 +42,7 @@ into `ENV`.
 Add Figaro to your Gemfile and `bundle install`:
 
 ```ruby
-gem "figaro"
+gem "daqing_figaro", require: "figaro"
 ```
 
 Figaro installation is easy:
